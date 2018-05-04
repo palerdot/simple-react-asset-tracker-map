@@ -1,0 +1,30 @@
+[
+  {
+    "tracker_id": "b8a00038-ee78-4e4e-a44d-7f14d875836c",
+    "tracker_type": "default",
+    "tags": "56",
+    "x": "287.00000000",
+    "y": "122.00000000",
+    "z": "387.00"
+  },
+  {
+    "tracker_id": "e506001c-609d-11e6-93df-14109fd4bd8b",
+    "room_id": null,
+    "tracker_type": "default",
+    "tags": "28",
+    "calibration_value": -42,
+    "x": "303.00000000",
+    "y": "104.00000000",
+    "z": "24.00"
+  },
+  {
+    "tracker_id": "e5060034-609d-11e6-93df-14109fd4bd8b",
+    "room_id": null,
+    "tracker_type": "default",
+    "tags": "52",
+    "calibration_value": -42,
+    "x": "155.00000000",
+    "y": "236.00000000",
+    "z": "24.00"
+  }
+]
