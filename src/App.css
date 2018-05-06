@@ -75,6 +75,13 @@
   border: thin solid blue;
 }
 
+.room {
+  position: absolute;
+  border: thin solid brown;
+  background: lightgreen;
+  opacity: 0.5;
+}
+
 
 
 

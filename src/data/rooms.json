@@ -1,0 +1,44 @@
+[
+  {
+    "room_id": 2,
+    "room_name": "Office One",
+    "zone_id": null,
+    "installation_id": 1,
+    "location_lat_lon": null,
+    "start_point": [
+      0,
+      338,
+      338,
+      0,
+      0
+    ],
+    "end_point": [
+      0,
+      0,
+      247,
+      247,
+      0
+    ]
+  },
+  {
+    "room_id": 3,
+    "room_name": "Server Room",
+    "zone_id": null,
+    "installation_id": 1,
+    "location_lat_lon": null,
+    "start_point": [
+      450,
+      772,
+      772,
+      0,
+      0
+    ],
+    "end_point": [
+      360,
+      360,
+      519,
+      519,
+      360
+    ]
+  }
+]

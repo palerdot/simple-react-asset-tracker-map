@@ -9,7 +9,8 @@ class Home extends React.Component {
     super(props)
     // set the state
     this.state = {
-      trackers: false
+      trackers: false,
+      rooms: false
     }
   }
 
@@ -27,9 +28,20 @@ class Home extends React.Component {
               Show Trackers
             </label>
           </div>
+          <div className='control'>
+            <label>
+              <input type="checkbox" checked={this.state.rooms} onChange={(e) => {
+                this.setState({
+                  rooms: e.target.checked
+                })
+              }} />
+              Show Rooms
+            </label>
+          </div>
         </div>
         <InstallationScreen 
           showTrackers={this.state.trackers}
+          showRooms={this.state.rooms}
         />
       </div>
     )
